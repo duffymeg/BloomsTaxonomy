@@ -1,0 +1,19 @@
+Metadata for analysis of Bloom’s Taxonomy levels for exams given in Bio 171: Introductory Biology: Ecology and Evolutionary Biology at the University of Michigan in Fall 2012 & Fall 2014. 
+
+Cindee Giffen and Meghan Duffy assessed the Bloom’s taxonomy level of the exam questions, working from Key 1 of each exam. We assigned Bloom’s levels based on the following levels:
+1 = Remember; basic recall
+2 = Understand; e.g., given a new example, be able to recognize a concept covered in class
+3 = Apply; e.g., recognizing what equation needed to be used, figuring out what information from the question goes into that equation, and correctly solving
+4 = Analyze; give students completely new data that they have to interpret in light of the concepts covered; have students make predictions (either verbally or graphically) based on a novel scenario
+
+Short answer questions are given numbers greater than 50. For these, we used the highest Bloom’s level of the different subquestions.
+
+Files:
+BloomsTaxonomy.csv
+Lists the semester (Fall 2012 or Fall 2014), the exam (1-4), the question number, and the Bloom’s level of the question. Note that the order in which topics were covered differed between the two semesters, so exam 1 in Fall 2014 had different material on it than exam 1 did in Fall 2012. There was also a partial change in instructors and a dramatic change in pedagogical techniques. Those changes are described here: https://dynamicecology.wordpress.com/2014/12/04/late-semester-thoughts-on-flipping-the-classroom/
+
+ExamGradesFall20122014
+Gives the class means for the grades on each of the four exams in the two semesters.
+
+BloomsTaxonomy.R
+R code for analyses of Bloom’s levels of exams and exam performance in the two years.
